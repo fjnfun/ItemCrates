@@ -1,0 +1,6 @@
+name: Item-Crates
+displayName: Item Crates
+author: Sky4ce09, better known as cyanide
+description: No fast conveyors? No problem lol
+version: chicken
+minGameVersion: any version that has all known vanilla items
